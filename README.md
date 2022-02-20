@@ -1,5 +1,5 @@
 # javascript-sketches
-Sketches made using [`canvas-sketch`](https://github.com/mattdesl/canvas-sketch) module by [**mattdesl**](https://www.mattdesl.com/).
+Sketches made using [`canvas-sketch`](https://github.com/mattdesl/canvas-sketch) module by [_Matt DesLauriers_](https://www.mattdesl.com/).
 <br><br>
 
 ## Installing and using `canvas-sketch`
